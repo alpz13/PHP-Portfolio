@@ -1,0 +1,24 @@
+
+#banner{
+	height: 236px;
+	border-bottom: solid 1px  #ddd;
+	padding-top: 156px;
+	padding-left: 75%;
+	padding-bottom: 30px;
+	background-image: url(../img/libros.jpg);
+	color: #ddd;
+	margin-bottom: 25px;	
+}
+table tr{
+	border-top: none !important;
+}
+#login-form{
+	width: 280px;
+	height: 300px;
+	margin: 10% auto 0 auto;
+}
+#login{
+	margin: 0px;
+	background-image: url(http://images5.fanpop.com/image/photos/28300000/Libraries-Reading-Wallpapers-books-to-read-28317155-2560-1600.jpg);
+	background-position: center;
+}
